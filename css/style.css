@@ -920,6 +920,7 @@ select {
 .project .project-item-inner .project-info .project-tags a {
   text-decoration: none;
   font-weight: 600;
+  color: skyblue;
 }
 
 /* Contact Section */
